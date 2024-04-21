@@ -1,0 +1,233 @@
+{  
+    "name": "Yiren",  
+    "notes": [  
+        {  
+            "interval": 0, 
+            "position": 0  
+        },  
+        {  
+            "interval": 0.8,  
+            "position": 0
+        },  
+        {  
+            "interval": 1.8,  
+            "position": 4
+        },
+        {  
+            "interval": 2.8,  
+            "position": -4
+        },  
+        {  
+            "interval": 3.9,  
+            "position": -2
+        },
+        {  
+            "interval": 4.2,  
+            "position": 0
+        },  
+        {  
+            "interval": 4.4,  
+            "position": 2
+        },
+        {  
+            "interval": 5,  
+            "position": 4
+        },  
+        {  
+            "interval": 5.6,  
+            "position": 2
+        },  
+        {  
+            "interval": 5.9,  
+            "position": 0
+        },  
+        {  
+            "interval": 6.9,  
+            "position": 2
+        },
+        {  
+            "interval": 7.5,  
+            "position": -2
+        },  
+        {  
+            "interval": 7.9,  
+            "position": -4
+        },
+        {  
+            "interval": 8.9,  
+            "position": -4
+        },  
+        {  
+            "interval": 9.2,  
+            "position": -2
+        },
+        {  
+            "interval": 9.6,  
+            "position": 0
+        },  
+        {  
+            "interval": 9.9,  
+            "position": 2
+        },  
+        {  
+            "interval": 10.9,  
+            "position": 4
+        },
+        {  
+            "interval": 11.5,  
+            "position": -4
+        },  
+        {  
+            "interval": 11.9,  
+            "position": -2
+        },
+        {  
+            "interval": 12.9,  
+            "position": 0
+        },  
+        {  
+            "interval": 13.9,  
+            "position": 2
+        },  
+        {  
+            "interval": 14.4,  
+            "position": 4
+        },
+        {  
+            "interval": 14.9,  
+            "position": -4
+        },  
+        {  
+            "interval": 15.5,  
+            "position": -2
+        },
+        {  
+            "interval": 15.9,  
+            "position": 0
+        },  
+        {  
+            "interval": 16.9,  
+            "position": 2
+        },  
+        {  
+            "interval": 17.4,  
+            "position": 4
+        },
+        {  
+            "interval": 17.9,  
+            "position": -4
+        },  
+        {  
+            "interval": 18.2,  
+            "position": -2
+        },
+        {  
+            "interval": 18.9,  
+            "position": 0
+        },  
+        {  
+            "interval":19.4,  
+            "position": 2
+        },  
+        {  
+            "interval": 19.9,  
+            "position": 4
+        },  
+        {  
+            "interval":20.4,  
+            "position": 2
+        },  
+        {  
+            "interval": 20.9,  
+            "position": 4
+        },  
+        {  
+            "interval":21.4,  
+            "position": 2
+        },  
+        {  
+            "interval": 21.9,  
+            "position": 4
+        },  
+        {  
+            "interval": 23,  
+            "position": 4
+        },
+        {  
+            "interval": 23.4,  
+            "position": -4
+        },  
+        {  
+            "interval": 24,  
+            "position": -2
+        },
+        {  
+            "interval": 24.4,  
+            "position": 0
+        },  
+        {  
+            "interval":24.9,  
+            "position": 2
+        },  
+        {  
+            "interval": 25.5,  
+            "position": 4
+        },  
+        {  
+            "interval":25.9,  
+            "position": 2
+        },  
+        {  
+            "interval": 26.9,  
+            "position": 4
+        },  
+        {  
+            "interval":27.4,  
+            "position": 2
+        },  
+        {  
+            "interval": 28,  
+            "position": 4
+        },  
+        {  
+            "interval": 28.4,  
+            "position": 4
+        },
+        {  
+            "interval": 29,  
+            "position": -4
+        },  
+        {  
+            "interval": 29.4,  
+            "position": -2
+        },
+        {  
+            "interval": 29.9,  
+            "position": 0
+        },  
+        {  
+            "interval":30.4,  
+            "position": 2
+        },  
+        {  
+            "interval": 30.9,  
+            "position": 4
+        },  
+        {  
+            "interval":31.4,  
+            "position": 2
+        },  
+        {  
+            "interval": 31.9,  
+            "position": 4
+        },  
+        {  
+            "interval":32.4,  
+            "position": 2
+        },  
+        {  
+            "interval": 32.9,  
+            "position": 4
+        }
+    ]  
+}
